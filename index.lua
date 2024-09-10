@@ -103,3 +103,5 @@ Callback = <function> - The function of the toggle.
 --[[
 Name = <string> - The name of the section.
 ]]
+
+OrionLib:Init()
